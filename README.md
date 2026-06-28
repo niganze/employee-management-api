@@ -28,7 +28,7 @@ src/
 └── server.js         # Entry point
 ⚙️ Installation & Setup
 1. Clone the repository
-git clone https://github.com/your-username/employee-management-api.git
+git clone https://github.com/niganze/employee-management-api.git
 cd employee-management-api
 2. Install dependencies
 npm install
